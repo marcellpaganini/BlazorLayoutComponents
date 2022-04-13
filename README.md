@@ -22,7 +22,7 @@
 ### Programming Topics practiced to get things done  
 #### 1- Layout Components (Blazor)  
 * Overview  
-- [x] Create a layout component    
-- [x] MainLayout component      
-- [x] Apply a layout  
-- [x] Nested layouts  
+- [] Create a layout component    
+- [] MainLayout component      
+- [] Apply a layout  
+- [] Nested layouts  
